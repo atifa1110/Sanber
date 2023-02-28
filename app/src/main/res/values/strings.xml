@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="nama_saya">Perkenalkan, nama saya Atifa Fiorenza</string>
+    <string name="android">Saya sedang membuat aplikasi pertama Android saya</string>
+    <string name="hasil">dan inilah hasilnya</string>
+    <string name="activity">Ke Activity</string>
+    <string name="fragment">Ke Fragment</string>
+    <string name="new_page">Halaman Main</string>
+    <string name="selamat">Selamat Datang</string>
+    <string name="hello_blank_fragment">Halaman Fragment</string>
+    <string name="masukkan">Masukkan Nama</string>
+    <string name="main_headline">Main Headline</string>
+    <string name="main_content">Main content</string>
+    <string name="published_at">Publish At</string>
+    <string name="author">By Me</string>
+    <string name="category">Category</string>
+</resources>
